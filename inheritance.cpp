@@ -8,6 +8,7 @@ using namespace std;
 //function overriding  between display() functions !! not overload !!
 // scope operator (line 16.)
 // return an obj ( function define line 21.)
+// obj array and assignment 
 class Human{
 public :
 		string name; 
